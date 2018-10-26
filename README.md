@@ -1,13 +1,4 @@
-
-<style>
-  @font-face {
-    font-family: 'lcd-solid';
-    src: url('./src/assets/LCD_Solid.ttf')
-  }
-  * { 
-    font-family: 'lcd-solid';
-  }
-</style>
+[![Build Status](https://travis-ci.org/raphaelbs/raphaelbs.github.io.svg?branch=develop)](https://travis-ci.org/raphaelbs/raphaelbs.github.io)
 <div><pre style="width: 430px; margin: 0 auto;">
                    -/syyyyyyyyyyyys+`              
               `+yho:.            .oN`             
