@@ -7,17 +7,8 @@
   * { 
     font-family: 'lcd-solid';
   }
-  .rb-text {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 18pt;
-  }
-  .rb-draw {
-    width: 430px;
-    margin: 0 auto;
-  }
 </style>
-<div><pre class="rb-draw">
+<div><pre style="width: 430px; margin: 0 auto;">
                    -/syyyyyyyyyyyys+`              
               `+yho:.            .oN`             
             .yd+`               .od+              
@@ -47,4 +38,4 @@ yh                    .:+yhy+-
                 .+syyyyyyyyyyyyyys/`          
 </pre></div>
 
-<div class="rb-text"><span>Follow the white rabbit.</span></div>
+<div style="text-align: center; margin-top: 40px; font-size: 18pt;"><span>Follow the white rabbit.</span></div>
